@@ -1,4 +1,4 @@
-import init, { greeting } from "../wb_rust/wasm_lib/pkg/wasm_lib.js";
+import init, { greeting } from "../wb_back/wasm_lib/pkg/wasm_lib.js";
 
 // wasm run
 async function run() {
